@@ -26,4 +26,4 @@
 3. A daily interest of 0.02% will be added to all the customers’ accounts at the beginning of the day if the balance is positive. Round the interest value up to 2nd decimal place (eg. 0 to 0.005 rounded to .00 and 0.0051to 0.0099 to 0.01) before adding it to account balance. 
 
 <br>
-When the program starts, delete all the customer account files and rewrite them freshly. The UI should give options to view bank vault balance and current balance of all the customer accounts. User can enter the date and see the starting balance (before applying interest) and end of the day balance of
+When the program starts, delete all the customer account files and rewrite them freshly. The UI should give options to view bank vault balance and current balance of all the customer accounts. User can enter the date and see the starting balance (before applying interest) and end of the day balance of any account.
